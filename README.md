@@ -44,6 +44,7 @@ A responsive web-based Tic Tac Toe game that supports two-player mode (Player X 
 
  **HTML5**: Structure and game layout      
  **CSS3**: Styling, responsiveness, animations
+ 
  **JavaScript**: Game logic and interactivity 
 
 ---
